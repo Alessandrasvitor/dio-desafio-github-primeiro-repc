@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repc
+# Desafio de reositório da DIO
 Desafio de projeto do githud da DIO
